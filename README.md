@@ -44,13 +44,13 @@ https://github.com/RuanDevJs/Skate-board/assets/82915279/b2a1aa3e-87d4-4bf8-8141
 <p>Clone the project</p>
 
 ```bash
-  git clone https://github.com/RuanDevJs/coffee-delivery
+  git clone https://github.com/RuanDevJs/Skate-board
 ```
 
 <p>Go to the project directory</p>
 
 ```bash
-  cd coffee-delivery
+  cd Skate-board
 ```
 
 <code>Install dependencies</code>
